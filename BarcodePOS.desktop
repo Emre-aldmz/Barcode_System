@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Barkod POS Sistemi
+Comment=Stok Takip ve Satış Uygulaması
+Exec=/home/develover/Desktop/Barcode_reader/run_pos.sh
+Icon=/home/develover/Desktop/Barcode_reader/pos_icon.png
+Terminal=false
+Type=Application
+Categories=Office;Utility;
+StartupNotify=true
